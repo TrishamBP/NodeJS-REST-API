@@ -46,7 +46,6 @@ npm i express
 ```Bash
 npm run dev
 ```
-<h2> Testing the API endpoint using Postman <h2>
  #### Postman
 
 - Install [Postman](https://www.getpostman.com/apps) to interact with REST API
