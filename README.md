@@ -11,6 +11,7 @@ A REST API (also known as RESTful API) is an application programming interface (
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
 </p>
 <h2>Project Overview </h2>
+<p> The REST API that is created is a Bank API, in which the user can add his information like account number, age and password. Mongoose is used to connect Node JS to MongoDB, end point is created on http://localhost:3000/bank using which CRUD operations can be performed on the data.</p>
 <h2>Project Installation and Working</h2>
 <p>Starting the Mongo DB database connection on local port</p>
 
