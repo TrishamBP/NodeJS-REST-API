@@ -20,3 +20,8 @@ npm i mongoose
 npm i validator
 npm i express
 ```
+<p>Start up the server</p>
+
+```Bash
+npm run dev
+```
