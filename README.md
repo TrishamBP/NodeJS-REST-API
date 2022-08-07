@@ -41,6 +41,8 @@ npm run dev
 ```Bash
 http://localhost:3000/bank
 ```
+
+
   
 ```Bash
 {
@@ -52,6 +54,7 @@ http://localhost:3000/bank
 
 }
 ```
+  ![image](https://user-images.githubusercontent.com/91331117/183301810-ce35aae0-3641-4388-b739-0f4d0ca7e191.png)
 <p> Getting all users from DB using GET</p>
 
 ```Bash
