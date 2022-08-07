@@ -36,4 +36,19 @@ npm i express
 npm run dev
 ```
 <h2> Testing the API endpoint using Postman <h2>
+<p>Adding a user to DB using POST</p>
 
+```Bash
+http://localhost:3000/bank
+```
+  
+```Bash
+{
+    "name":"Trisham",
+    "address":"Pune, Maharashtra, India",
+    "age":24,
+    "accountNumber":123456,
+    "password":"ahjkgfkgkajhfj"
+
+}
+```
