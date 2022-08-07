@@ -3,9 +3,9 @@ A REST API (also known as RESTful API) is an application programming interface (
 <h2> Technology Used </h2>
 <p align="justify">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Mongo DB-495C83?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Express-495C83?style=flat-square&logo=express"/>
-<img src="https://img.shields.io/badge/-Node JS-495C83?style=flat-square&logo=node"/>
+<img src="https://img.shields.io/badge/-Mongo DB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=node"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
