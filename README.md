@@ -47,44 +47,4 @@ npm i express
 npm run dev
 ```
 <h2> Testing the API endpoint using Postman <h2>
-<p> Adding a user to DB using POST</p>
 
-```Bash
-http://localhost:3000/bank
-```
-
-
-  
-```Bash
-{
-    "name":"Trisham",
-    "address":"Pune, Maharashtra, India",
-    "age":24,
-    "accountNumber":123456,
-    "password":"ahjkgfkgkajhfj"
-
-}
-```
-  ![image](https://user-images.githubusercontent.com/91331117/183301810-ce35aae0-3641-4388-b739-0f4d0ca7e191.png)
-<p> Getting all users from DB using GET</p>
-
-```Bash
-http://localhost:3000/bank
-```
-<p> Getting a single user from DB using GET</p>
-
-```Bash
-http://localhost:3000/bank/:id
-```
-![image](https://user-images.githubusercontent.com/91331117/183301849-3bb4e380-817d-4b84-9c00-8eaabed1fcbb.png)
-
-<p>Updating a single user from DB using PATCH</p>
-
-```Bash
-http://localhost:3000/bank/:id
-```
-<p>Deleting a single user from DB using DELETE</p>
-
-```Bash
-http://localhost:3000/bank/:id
-```
