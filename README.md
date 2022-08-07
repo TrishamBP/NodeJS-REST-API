@@ -53,11 +53,12 @@ npm run dev
   - URL: http://localhost:3000/bank
   - Method: POST
   - Body: raw + JSON (application/json)
- - Read/find a user with:
+ 
+- Read/find a user with:
   - URL: http://localhost:3000/bank/
   - URL: http://localhost:3000/bank/:id
   - Method: GET
- - Update a user with:
+- Update a user with:
   - URL: http://localhost:3000/bank/:id
   - Method: PATCH
   - Body: raw + JSON (application/json)
