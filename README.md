@@ -52,6 +52,10 @@ http://localhost:3000/bank
 
 }
 ```
+<p align = "center">
+  <img  src = "![image](https://user-images.githubusercontent.com/91331117/183301083-7c134207-edfc-4e3b-adf1-4a223551946d.png)" width=300px height=300px>
+  
+</p> 
 <p> Getting all users from DB using GET</p>
 
 ```Bash
