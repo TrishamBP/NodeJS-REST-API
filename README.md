@@ -47,4 +47,14 @@ npm i express
 npm run dev
 ```
 <h2> Testing the API endpoint using Postman <h2>
-  <p>Install [Postman](https://www.getpostman.com/apps) to interact with REST API.</p>
+ #### Postman
+
+- Install [Postman](https://www.getpostman.com/apps) to interact with REST API
+- Create a message with:
+  - URL: http://localhost:3000/messages
+  - Method: POST
+  - Body: raw + JSON (application/json)
+  - Body Content: `{ "text": "Hi again, World" }`
+- Delete a message with:
+  - URL: http://localhost:3000/messages/1
+  - Method: DELETE
