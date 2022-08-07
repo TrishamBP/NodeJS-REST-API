@@ -72,7 +72,7 @@ http://localhost:3000/bank/:id
 ```Bash
 http://localhost:3000/bank/:id
 ```
-<p>Deleting a single user from DB using PATCH</p>
+<p>Deleting a single user from DB using DELETE</p>
 
 ```Bash
 http://localhost:3000/bank/:id
