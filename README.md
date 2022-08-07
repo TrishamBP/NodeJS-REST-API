@@ -7,7 +7,7 @@ A REST API (also known as RESTful API) is an application programming interface (
 ```Bash
 C:\Users\trish\mongoDB\bin\mongod.exe --dbpath=C:\Users\trish\mongoDB-data
 ```
-<p>Installing Dependencies</p>
+<p>Install Dependencies</p>
 
 ```Bash
 npm i mongodb
