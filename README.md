@@ -52,8 +52,6 @@ http://localhost:3000/bank
 
 }
 ```
- ![image](https://user-images.githubusercontent.com/91331117/183301123-35371374-d589-4ad6-851e-a82f2a083020.png)
-
 <p> Getting all users from DB using GET</p>
 
 ```Bash
