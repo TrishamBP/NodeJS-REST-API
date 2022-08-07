@@ -62,3 +62,8 @@ http://localhost:3000/bank
 ```Bash
 http://localhost:3000/bank/:id
 ```
+<p>Updating a single user from DB using PATCH</p>
+
+```Bash
+http://localhost:3000/bank/:id
+```
