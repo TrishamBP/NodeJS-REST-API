@@ -65,6 +65,8 @@ http://localhost:3000/bank
 ```Bash
 http://localhost:3000/bank/:id
 ```
+![image](https://user-images.githubusercontent.com/91331117/183301849-3bb4e380-817d-4b84-9c00-8eaabed1fcbb.png)
+
 <p>Updating a single user from DB using PATCH</p>
 
 ```Bash
