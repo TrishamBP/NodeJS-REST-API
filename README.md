@@ -46,14 +46,21 @@ npm i express
 ```Bash
 npm run dev
 ```
- #### Postman
+ ## Testing with Postman
 
 - Install [Postman](https://www.getpostman.com/apps) to interact with REST API
-- Create a message with:
-  - URL: http://localhost:3000/messages
+- Create a user with:
+  - URL: http://localhost:3000/bank
   - Method: POST
   - Body: raw + JSON (application/json)
-  - Body Content: `{ "text": "Hi again, World" }`
-- Delete a message with:
-  - URL: http://localhost:3000/messages/1
+ - Read/find a user with:
+  - URL: http://localhost:3000/bank/
+  - URL: http://localhost:3000/bank/:id
+  - Method: GET
+ - Update a user with:
+  - URL: http://localhost:3000/bank/:id
+  - Method: PATCH
+  - Body: raw + JSON (application/json)
+- Delete a user with:
+  - URL: http://localhost:3000/bank/:id
   - Method: DELETE
